@@ -51,7 +51,7 @@ namespace Task1
         }
         static double Vol(double r)
         {
-            double v = (Math.PI * r * r * 4 / 3);
+            double v = (Math.PI * r * r * r * 4 / 3);
             return v;
         }
 
